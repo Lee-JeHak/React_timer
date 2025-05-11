@@ -75,7 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![앱 실행](./start.png)
 
 ### 2. 20초 경과 후 alert 메세지
-![alert 알림] (./middle.png)
+![alert알림] (./middle.png)
 
 ### 3. 리셋 동작 및 콘솔 출력
-![리셋 및 콘솔] (./final.png)``
+![리셋및콘솔] (./final.png)
