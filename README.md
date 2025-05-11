@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 실행화면 캡처
+
+### 1. 앱 실행 초기 화면
+![앱 실행](./KaKaoTalk_20250512_0220051411.png)
+
+### 2. 20초 경과 후 alert 메세지
+![alert 알림] (./KaKaoTalk_20250512_022203658.png)
+
+### 3. 리셋 동작 및 콘솔 출력
+![리셋 및 콘솔] (./KaKaoTalk_20250512_022450940.png)
